@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lin-skyfeather
-- 👀 I’m interested in video game
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m @Lin-skyfeather.
+- 👀 I’m interested in video game.
+- 🌱 I’m currently learning C#,C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Facebook
 
